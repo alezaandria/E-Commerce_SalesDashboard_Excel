@@ -65,29 +65,6 @@ Displayed in clean card-style tiles:
 
 ---
 
-## 🛠 Tools & Technologies
-
-* **Microsoft Excel**
-* **Power Pivot** (data modeling, relationships, DAX)
-* **Power Query** (data cleaning and transformation)
-* **Pivot Tables & Slicers**
-* **Excel Charts & Map Visualization**
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel file from this repository
-2. Open it with a version of Excel that supports Power Pivot
-3. Interact with slicers to explore:
-
-   * Category-based sales patterns
-   * Country-specific KPIs
-   * Product performance trends
-4. Modify or expand the data model if needed
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
